@@ -8,6 +8,6 @@ function(){
 function(){
 	debugger
 	var tom = new User("tom");
-	tom.name.should.be.equal("tommy");
+	tom.name.should.be.equal("tom");
 	});
 });
